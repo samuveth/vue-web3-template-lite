@@ -12,7 +12,7 @@ VueJS, Typescript, TailwindCSS, DailyUI, HeadlessUI
 If you prefer to do it manually with the cleaner git history
 
 ```bash
-npx samuveth/vue-web3-template-lite
+npx degit samuveth/vue-web3-template-lite
 cd my-vite-app
 yarn
 ```
