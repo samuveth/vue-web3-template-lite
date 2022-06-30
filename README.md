@@ -1,11 +1,11 @@
 # vue-web3-template-lite
 
-VueJS, Typescript, TailwindCSS, DailyUI, HeadlessUI
+VueJS, Typescript, TailwindCSS, DaisyUI, HeadlessUI
 
 
 ### GitHub Template
 
-[Create a repo from this template on GitHub](https://github.com/antfu/vitesse/generate).
+[Create a repo from this template on GitHub](https://github.com/samuveth/vue-web3-template-lite/generate).
 
 ### Clone to local
 
